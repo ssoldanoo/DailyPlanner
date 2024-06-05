@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jfv5lEaiBci1fOyRbs3kWADv4AgLYZ73kaKzuMvnG6QanDKnKMLmEA4nH9/meG4li6fIfKz9UqN4tpf3Kzj+UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\famou\\RiderProjects\\DailyPlanner\\DailyPlanner\\DailyPlanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\famou\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\famou\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\famou\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
